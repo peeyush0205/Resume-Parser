@@ -1,3 +1,4 @@
 # Resume Parser
 It's a machine learning model that helps to extract important details from resume.
-It also matches resume with the given job description.
+Developed a algorithm to compare resumes with job requirements, aiding in efficient candidate evaluation.
+
